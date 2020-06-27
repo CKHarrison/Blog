@@ -25,6 +25,9 @@ gem 'jbuilder', '~> 2.7'
 # paperclip for file uploads
 gem 'paperclip'
 
+# Authentication using sorcery
+gem 'sorcery'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
